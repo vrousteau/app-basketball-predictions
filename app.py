@@ -1,6 +1,8 @@
 import streamlit as st
 import pandas as pd
 
+st.set_page_config(layout="wide")
+
 def check_password():
     if st.session_state.get("authenticated"):
         return True
@@ -23,7 +25,7 @@ if check_password():
     st.title("Predictions for next basketball matches (NBA and ProA)")
 
     st.write("Here are the predictions:")
-    st.dataframe(df_test)
+    st.dataframe(df_test, use_container_width=True)
 
 # @st.cache_data
 # def convert_df_to_csv(df):
