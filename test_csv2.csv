@@ -1,195 +1,223 @@
-,Player,Team,Opp_team,Matchdate,Predicted_PTS_xgb,Predicted_PTS_lgb
-0,Sarr A.,Washington Wizards,Los Angeles Lakers,2025-01-31 00:00:00,12.145057,12.186461818885137
-1,George K.,Washington Wizards,Los Angeles Lakers,2025-01-31 00:00:00,9.291228,9.493103125654201
-2,Brogdon M.,Washington Wizards,Los Angeles Lakers,2025-01-31 00:00:00,14.531809,15.21971367983989
-3,Carrington C.,Washington Wizards,Los Angeles Lakers,2025-01-31 00:00:00,9.73235,9.694535484176226
-4,Valanciunas J.,Washington Wizards,Los Angeles Lakers,2025-01-31 00:00:00,10.936848,10.770333042401216
-5,Gill A.,Washington Wizards,Los Angeles Lakers,2025-01-31 00:00:00,3.9153214,3.426919710040757
-6,Butler J.,Washington Wizards,Los Angeles Lakers,2025-01-31 00:00:00,7.1788483,7.579632995720067
-7,Kispert C.,Washington Wizards,Los Angeles Lakers,2025-01-31 00:00:00,10.853502,10.96470790328057
-8,Holmes R.,Washington Wizards,Los Angeles Lakers,2025-01-31 00:00:00,5.6101894,5.555091365028513
-9,Coulibaly B.,Washington Wizards,Los Angeles Lakers,2025-01-31 00:00:00,13.571647,13.411359059801226
-10,Champagnie J.,Washington Wizards,Los Angeles Lakers,2025-01-31 00:00:00,6.132999,6.256191889768693
-11,Poole J.,Washington Wizards,Los Angeles Lakers,2025-01-31 00:00:00,20.012203,19.69000172947445
-12,Baldwin P.,Washington Wizards,Los Angeles Lakers,2025-01-31 00:00:00,3.9465938,3.950868953189134
-13,Bagley M.,Washington Wizards,Los Angeles Lakers,2025-01-31 00:00:00,7.3853474,7.441484293109801
-14,Kuzma K.,Washington Wizards,Los Angeles Lakers,2025-01-31 00:00:00,15.944824,17.175672228008448
-15,Funk T.,Washington Wizards,Los Angeles Lakers,2025-01-31 00:00:00,6.0125837,6.394478841394679
-16,Davis J.,Washington Wizards,Los Angeles Lakers,2025-01-31 00:00:00,4.1009927,4.218396969748172
-17,Vukcevic T.,Washington Wizards,Los Angeles Lakers,2025-01-31 00:00:00,4.1566153,4.077796387456566
-18,Hayes J.,Los Angeles Lakers,Washington Wizards,2025-01-31 00:00:00,5.627943,5.66457974157648
-19,Jemison T.,Los Angeles Lakers,Washington Wizards,2025-01-31 00:00:00,3.417287,3.4847127054429508
-20,Vanderbilt J.,Los Angeles Lakers,Washington Wizards,2025-01-31 00:00:00,5.054976,5.238875776889542
-21,Russell D.,Los Angeles Lakers,Washington Wizards,2025-01-31 00:00:00,12.073634,11.682287309735901
-22,Reddish C.,Los Angeles Lakers,Washington Wizards,2025-01-31 00:00:00,3.877485,3.9884553548875212
-23,Castleton C.,Los Angeles Lakers,Washington Wizards,2025-01-31 00:00:00,4.1554995,3.8692354843364196
-24,Finney-Smith D.,Los Angeles Lakers,Washington Wizards,2025-01-31 00:00:00,6.5863123,6.590484176122922
-25,Olivari Q.,Los Angeles Lakers,Washington Wizards,2025-01-31 00:00:00,6.730621,6.190225843251953
-26,Milton S.,Los Angeles Lakers,Washington Wizards,2025-01-31 00:00:00,3.5272026,3.1421352619834466
-27,Wood C.,Los Angeles Lakers,Washington Wizards,2025-01-31 00:00:00,6.2568693,5.994264145532331
-28,Vincent G.,Los Angeles Lakers,Washington Wizards,2025-01-31 00:00:00,6.4850535,6.4774468135602765
-29,Traore A.,Los Angeles Lakers,Washington Wizards,2025-01-31 00:00:00,3.9138484,4.124904827524887
-30,Christie M.,Los Angeles Lakers,Washington Wizards,2025-01-31 00:00:00,9.474963,10.054110430028633
-31,Knecht D.,Los Angeles Lakers,Washington Wizards,2025-01-31 00:00:00,10.310989,9.491795546126959
-32,Hachimura R.,Los Angeles Lakers,Washington Wizards,2025-01-31 00:00:00,12.791455,12.812908408371188
-33,Koloko C. J.,Los Angeles Lakers,Washington Wizards,2025-01-31 00:00:00,3.608162,3.3898590847450905
-34,James L.,Los Angeles Lakers,Washington Wizards,2025-01-31 00:00:00,25.11824,24.964464733336712
-35,Hood-Schifino J.,Los Angeles Lakers,Washington Wizards,2025-01-31 00:00:00,5.221198,5.187282429351976
-36,James Jr. B.,Los Angeles Lakers,Washington Wizards,2025-01-31 00:00:00,3.5691922,3.58211912192024
-37,Lewis M.,Los Angeles Lakers,Washington Wizards,2025-01-31 00:00:00,2.903714,2.8856766052225047
-38,Reaves A.,Los Angeles Lakers,Washington Wizards,2025-01-31 00:00:00,18.714603,19.172561793392056
-39,Davis A.,Los Angeles Lakers,Washington Wizards,2025-01-31 00:00:00,27.888243,26.9475475398266
-40,Merrill S.,Cleveland Cavaliers,Atlanta Hawks,2025-01-31 00:00:00,6.428702,6.5851663697484994
-41,LeVert C.,Cleveland Cavaliers,Atlanta Hawks,2025-01-31 00:00:00,10.540325,10.860487445842098
-42,Jerome T.,Cleveland Cavaliers,Atlanta Hawks,2025-01-31 00:00:00,12.151306,12.692359028572925
-43,Nance P.,Cleveland Cavaliers,Atlanta Hawks,2025-01-31 00:00:00,2.881065,2.971837191395697
-44,Thor J.,Cleveland Cavaliers,Atlanta Hawks,2025-01-31 00:00:00,4.09282,3.914605791416011
-45,Mobley E.,Cleveland Cavaliers,Atlanta Hawks,2025-01-31 00:00:00,17.19639,17.802096197918296
-46,Garland D.,Cleveland Cavaliers,Atlanta Hawks,2025-01-31 00:00:00,21.978495,22.94141583676188
-47,Porter C.,Cleveland Cavaliers,Atlanta Hawks,2025-01-31 00:00:00,3.483271,3.6099992301339254
-48,Bates E.,Cleveland Cavaliers,Atlanta Hawks,2025-01-31 00:00:00,3.6612024,3.9391327220521046
-49,Niang G.,Cleveland Cavaliers,Atlanta Hawks,2025-01-31 00:00:00,9.037978,9.18316412649391
-50,Allen J.,Cleveland Cavaliers,Atlanta Hawks,2025-01-31 00:00:00,12.640338,12.805013183263096
-51,Wade D.,Cleveland Cavaliers,Atlanta Hawks,2025-01-31 00:00:00,6.564705,6.767158494505085
-52,Mitchell D.,Cleveland Cavaliers,Atlanta Hawks,2025-01-31 00:00:00,24.571173,25.154331614763116
-53,Strus M.,Cleveland Cavaliers,Atlanta Hawks,2025-01-31 00:00:00,8.345377,8.342917078750414
-54,Okoro I.,Cleveland Cavaliers,Atlanta Hawks,2025-01-31 00:00:00,4.6577716,4.77163927777029
-55,Thompson T.,Cleveland Cavaliers,Atlanta Hawks,2025-01-31 00:00:00,2.995302,2.871381421978386
-56,Bernard J.,Cleveland Cavaliers,Atlanta Hawks,2025-01-31 00:00:00,4.715252,4.994113556689728
-57,Travers L.,Cleveland Cavaliers,Atlanta Hawks,2025-01-31 00:00:00,2.834013,2.8353910733821435
-58,Tyson J.,Cleveland Cavaliers,Atlanta Hawks,2025-01-31 00:00:00,4.303598,4.083374800748309
-59,Bogdanovic B.,Atlanta Hawks,Cleveland Cavaliers,2025-01-31 00:00:00,10.021734,10.058078365187312
-60,Krejci V.,Atlanta Hawks,Cleveland Cavaliers,2025-01-31 00:00:00,9.451391,9.487689672451129
-61,Mathews G.,Atlanta Hawks,Cleveland Cavaliers,2025-01-31 00:00:00,7.00123,6.973866601388468
-62,Capela C.,Atlanta Hawks,Cleveland Cavaliers,2025-01-31 00:00:00,9.519241,9.596256227460948
-63,Young T.,Atlanta Hawks,Cleveland Cavaliers,2025-01-31 00:00:00,21.772482,21.637420849309258
-64,Harris K.,Atlanta Hawks,Cleveland Cavaliers,2025-01-31 00:00:00,11.057064,11.001241865723571
-65,Nance L.,Atlanta Hawks,Cleveland Cavaliers,2025-01-31 00:00:00,8.798778,8.946051386070586
-66,Barlow D.,Atlanta Hawks,Cleveland Cavaliers,2025-01-31 00:00:00,3.7703528,4.05438616283255
-67,Hunter D.,Atlanta Hawks,Cleveland Cavaliers,2025-01-31 00:00:00,17.945372,18.215210340079633
-68,Johnson J.,Atlanta Hawks,Cleveland Cavaliers,2025-01-31 00:00:00,17.06737,17.485617394609932
-69,Wallace K.,Atlanta Hawks,Cleveland Cavaliers,2025-01-31 00:00:00,9.570747,10.204191681171666
-70,Risacher Z.,Atlanta Hawks,Cleveland Cavaliers,2025-01-31 00:00:00,11.605874,12.013359020290602
-71,Plowden D.,Atlanta Hawks,Cleveland Cavaliers,2025-01-31 00:00:00,6.717299,6.981794522244171
-72,Roddy D.,Atlanta Hawks,Cleveland Cavaliers,2025-01-31 00:00:00,5.4698,5.456933527773975
-73,Bufkin K.,Atlanta Hawks,Cleveland Cavaliers,2025-01-31 00:00:00,7.034631,7.417753332746921
-74,Daniels D.,Atlanta Hawks,Cleveland Cavaliers,2025-01-31 00:00:00,14.777902,16.22631531885563
-75,Okongwu O.,Atlanta Hawks,Cleveland Cavaliers,2025-01-31 00:00:00,11.915578,11.720766430827604
-76,Gueye M.,Atlanta Hawks,Cleveland Cavaliers,2025-01-31 00:00:00,6.9987845,7.239872571602141
-77,Mills P.,Utah Jazz,Minnesota Timberwolves,2025-01-31 02:00:00,4.699922,4.719181624659819
-78,Filipowski K.,Utah Jazz,Minnesota Timberwolves,2025-01-31 02:00:00,7.4389,7.279312407628807
-79,Sexton C.,Utah Jazz,Minnesota Timberwolves,2025-01-31 02:00:00,18.36027,19.305502169618055
-80,Sensabaugh B.,Utah Jazz,Minnesota Timberwolves,2025-01-31 02:00:00,9.707283,9.990236689819923
-81,Juzang J.,Utah Jazz,Minnesota Timberwolves,2025-01-31 02:00:00,7.2965097,7.462283312671687
-82,Hendricks T.,Utah Jazz,Minnesota Timberwolves,2025-01-31 02:00:00,7.2531443,7.0890738260788515
-83,Clarkson J.,Utah Jazz,Minnesota Timberwolves,2025-01-31 02:00:00,15.576135,15.755483593630018
-84,Harkless E.,Utah Jazz,Minnesota Timberwolves,2025-01-31 02:00:00,4.324025,4.371354274584974
-85,Collins J.,Utah Jazz,Minnesota Timberwolves,2025-01-31 02:00:00,17.572342,18.13198999407344
-86,Markkanen L.,Utah Jazz,Minnesota Timberwolves,2025-01-31 02:00:00,19.37853,19.68242044307831
-87,Preston J.,Utah Jazz,Minnesota Timberwolves,2025-01-31 02:00:00,3.5651398,3.6584296994712964
-88,Eubanks D.,Utah Jazz,Minnesota Timberwolves,2025-01-31 02:00:00,6.7590213,7.032236640605006
-89,Kessler W.,Utah Jazz,Minnesota Timberwolves,2025-01-31 02:00:00,10.484015,10.280230221305311
-90,Williams C.,Utah Jazz,Minnesota Timberwolves,2025-01-31 02:00:00,6.6906757,6.947175616444559
-91,George K.,Utah Jazz,Minnesota Timberwolves,2025-01-31 02:00:00,15.949365,16.71184884917224
-92,Potter M.,Utah Jazz,Minnesota Timberwolves,2025-01-31 02:00:00,5.441962,5.719560802233338
-93,Collier I.,Utah Jazz,Minnesota Timberwolves,2025-01-31 02:00:00,12.27788,12.345234590717197
-94,Mykhailiuk S.,Utah Jazz,Minnesota Timberwolves,2025-01-31 02:00:00,11.011297,11.123284382109382
-95,Tshiebwe O.,Utah Jazz,Minnesota Timberwolves,2025-01-31 02:00:00,4.0733075,3.8848266025633125
-96,Garza L.,Minnesota Timberwolves,Utah Jazz,2025-01-31 02:00:00,5.0680494,5.424338550008202
-97,McDaniels J.,Minnesota Timberwolves,Utah Jazz,2025-01-31 02:00:00,12.882214,12.535912801761166
-98,Miller L.,Minnesota Timberwolves,Utah Jazz,2025-01-31 02:00:00,3.6289485,3.4826282827780073
-99,DiVincenzo D.,Minnesota Timberwolves,Utah Jazz,2025-01-31 02:00:00,14.268684,14.74871939561539
-100,Edwards A.,Minnesota Timberwolves,Utah Jazz,2025-01-31 02:00:00,28.123297,29.231408943563036
-101,Bates-Diop K.,Minnesota Timberwolves,Utah Jazz,2025-01-31 02:00:00,5.1714993,5.180402781119562
-102,Dozier P.J.,Minnesota Timberwolves,Utah Jazz,2025-01-31 02:00:00,3.398442,3.0419229782298176
-103,Dillingham R.,Minnesota Timberwolves,Utah Jazz,2025-01-31 02:00:00,6.9141135,6.4949111619377655
-104,Clark J.,Minnesota Timberwolves,Utah Jazz,2025-01-31 02:00:00,2.941289,3.2285898129324284
-105,Shannon Jr. T.,Minnesota Timberwolves,Utah Jazz,2025-01-31 02:00:00,3.6064281,3.7781106856689433
-106,Conley M.,Minnesota Timberwolves,Utah Jazz,2025-01-31 02:00:00,8.332925,8.391529787036202
-107,Alexander-Walker N.,Minnesota Timberwolves,Utah Jazz,2025-01-31 02:00:00,9.720437,9.407952009587055
-108,Minott J.,Minnesota Timberwolves,Utah Jazz,2025-01-31 02:00:00,4.050517,4.156013246248887
-109,Gobert R.,Minnesota Timberwolves,Utah Jazz,2025-01-31 02:00:00,10.154236,10.37961936384484
-110,Ingles J.,Minnesota Timberwolves,Utah Jazz,2025-01-31 02:00:00,2.843984,2.991243181754457
-111,Nix D.,Minnesota Timberwolves,Utah Jazz,2025-01-31 02:00:00,4.950051,4.476057907481315
-112,Randle J.,Minnesota Timberwolves,Utah Jazz,2025-01-31 02:00:00,21.612185,22.253138007039706
-113,Edwards J.,Minnesota Timberwolves,Utah Jazz,2025-01-31 02:00:00,6.9075255,7.011465107516242
-114,Reid N.,Minnesota Timberwolves,Utah Jazz,2025-01-31 02:00:00,14.349233,14.754717598561806
-115,Spencer C.,Memphis Grizzlies,Houston Rockets,2025-01-31 02:30:00,4.327074,4.057934711716555
-116,Cardoso Pereira J. M.,Memphis Grizzlies,Houston Rockets,2025-01-31 02:30:00,2.6615493,2.818561286221022
-117,Kawamura Y.,Memphis Grizzlies,Houston Rockets,2025-01-31 02:30:00,2.6955307,2.7182715707066842
-118,Jackson G.,Memphis Grizzlies,Houston Rockets,2025-01-31 02:30:00,8.501622,8.369609020203058
-119,Aldama S.,Memphis Grizzlies,Houston Rockets,2025-01-31 02:30:00,12.8514805,12.850992992049205
-120,Castleton C.,Memphis Grizzlies,Houston Rockets,2025-01-31 02:30:00,3.5777953,3.422628684000322
-121,Edey Z.,Memphis Grizzlies,Houston Rockets,2025-01-31 02:30:00,10.103612,9.757112855855853
-122,Smart M.,Memphis Grizzlies,Houston Rockets,2025-01-31 02:30:00,9.241083,9.501542697461165
-123,Morant J.,Memphis Grizzlies,Houston Rockets,2025-01-31 02:30:00,18.364151,19.746644670109358
-124,Bacot A.,Memphis Grizzlies,Houston Rockets,2025-01-31 02:30:00,3.5347617,3.708973661257853
-125,Oni M.,Memphis Grizzlies,Houston Rockets,2025-01-31 02:30:00,3.5066884,3.8988702193796523
-126,Bane D.,Memphis Grizzlies,Houston Rockets,2025-01-31 02:30:00,17.238329,17.380048642249058
-127,Jackson J.,Memphis Grizzlies,Houston Rockets,2025-01-31 02:30:00,23.24894,22.617822994968332
-128,Kennard L.,Memphis Grizzlies,Houston Rockets,2025-01-31 02:30:00,9.823304,9.690644753594224
-129,LaRavia J.,Memphis Grizzlies,Houston Rockets,2025-01-31 02:30:00,6.640196,6.844571555094555
-130,Pippen Jr S.,Memphis Grizzlies,Houston Rockets,2025-01-31 02:30:00,8.738357,8.574159258155357
-131,Konchar J.,Memphis Grizzlies,Houston Rockets,2025-01-31 02:30:00,3.3787282,3.474126451596412
-132,Clarke B.,Memphis Grizzlies,Houston Rockets,2025-01-31 02:30:00,7.2401695,6.980611901431861
-133,Wells J.,Memphis Grizzlies,Houston Rockets,2025-01-31 02:30:00,11.336008,11.194808594798177
-134,Huff J.,Memphis Grizzlies,Houston Rockets,2025-01-31 02:30:00,4.9614515,5.268893088574783
-135,Williams V.,Memphis Grizzlies,Houston Rockets,2025-01-31 02:30:00,8.369153,7.006178494445973
-136,Dante N.,Houston Rockets,Memphis Grizzlies,2025-01-31 02:30:00,3.199747,3.068969139882581
-137,Hinton N.,Houston Rockets,Memphis Grizzlies,2025-01-31 02:30:00,3.8006313,3.832555574154809
-138,Sengun A.,Houston Rockets,Memphis Grizzlies,2025-01-31 02:30:00,19.125124,18.667720021664156
-139,Whitmore C.,Houston Rockets,Memphis Grizzlies,2025-01-31 02:30:00,10.147815,10.322653970773397
-140,Adams S.,Houston Rockets,Memphis Grizzlies,2025-01-31 02:30:00,5.7647076,5.5232784480291786
-141,Green J.,Houston Rockets,Memphis Grizzlies,2025-01-31 02:30:00,20.845278,20.50961584075124
-142,Green Je.,Houston Rockets,Memphis Grizzlies,2025-01-31 02:30:00,6.711322,6.461863739622407
-143,Williams N.,Houston Rockets,Memphis Grizzlies,2025-01-31 02:30:00,3.3982825,3.351409733121139
-144,McVeigh J.,Houston Rockets,Memphis Grizzlies,2025-01-31 02:30:00,3.970142,3.6115178402700088
-145,Thompson A.,Houston Rockets,Memphis Grizzlies,2025-01-31 02:30:00,17.773563,17.423248395605718
-146,Samuels J.,Houston Rockets,Memphis Grizzlies,2025-01-31 02:30:00,5.4659224,5.727307380755361
-147,Holiday A.,Houston Rockets,Memphis Grizzlies,2025-01-31 02:30:00,5.812268,5.686150716745122
-148,Brooks D.,Houston Rockets,Memphis Grizzlies,2025-01-31 02:30:00,14.158594,14.156187325322822
-149,VanVleet F.,Houston Rockets,Memphis Grizzlies,2025-01-31 02:30:00,15.617986,16.263829672286327
-150,Landale J.,Houston Rockets,Memphis Grizzlies,2025-01-31 02:30:00,3.8563907,4.006665993188577
-151,Tate J.,Houston Rockets,Memphis Grizzlies,2025-01-31 02:30:00,5.943571,5.79976385974157
-152,Smith Jr. J.,Houston Rockets,Memphis Grizzlies,2025-01-31 02:30:00,12.369801,11.867724578793489
-153,Sheppard R.,Houston Rockets,Memphis Grizzlies,2025-01-31 02:30:00,3.8223732,3.891924263078157
-154,Williams J.,Houston Rockets,Memphis Grizzlies,2025-01-31 02:30:00,6.1983533,5.753644952565811
-155,Eason T.,Houston Rockets,Memphis Grizzlies,2025-01-31 02:30:00,11.028817,10.788624760163385
-156,McGowens B.,Portland Trail Blazers,Orlando Magic,2025-01-31 03:00:00,3.0462115,2.8832993664206232
-157,Simons A.,Portland Trail Blazers,Orlando Magic,2025-01-31 03:00:00,17.680908,18.37270528310149
-158,Graham D.,Portland Trail Blazers,Orlando Magic,2025-01-31 03:00:00,3.9234753,3.8995023213519096
-159,Avdija D.,Portland Trail Blazers,Orlando Magic,2025-01-31 03:00:00,17.094044,16.587174565139186
-160,Rupert R.,Portland Trail Blazers,Orlando Magic,2025-01-31 03:00:00,3.5011225,3.3102083816250873
-161,Williams R.,Portland Trail Blazers,Orlando Magic,2025-01-31 03:00:00,5.1781635,5.174637485896023
-162,Camara T.,Portland Trail Blazers,Orlando Magic,2025-01-31 03:00:00,11.051149,11.007186895880734
-163,Murray K.,Portland Trail Blazers,Orlando Magic,2025-01-31 03:00:00,4.067592,4.048755010807903
-164,Banton D.,Portland Trail Blazers,Orlando Magic,2025-01-31 03:00:00,7.7120504,7.756798574770924
-165,Reath D.,Portland Trail Blazers,Orlando Magic,2025-01-31 03:00:00,3.2349854,3.384250638905127
-166,Clingan D.,Portland Trail Blazers,Orlando Magic,2025-01-31 03:00:00,5.9016867,5.711814275560654
-167,Minaya J.,Portland Trail Blazers,Orlando Magic,2025-01-31 03:00:00,2.953133,2.86200692842437
-168,Grant J.,Portland Trail Blazers,Orlando Magic,2025-01-31 03:00:00,14.243248,13.915411850238444
-169,Sharpe S.,Portland Trail Blazers,Orlando Magic,2025-01-31 03:00:00,16.398918,15.67288782940246
-170,Ayton D.,Portland Trail Blazers,Orlando Magic,2025-01-31 03:00:00,14.0232725,14.177152126690832
-171,Henderson S.,Portland Trail Blazers,Orlando Magic,2025-01-31 03:00:00,12.168121,12.459095709837806
-172,Walker J.,Portland Trail Blazers,Orlando Magic,2025-01-31 03:00:00,3.810699,3.859238792894714
-173,Moore T.,Portland Trail Blazers,Orlando Magic,2025-01-31 03:00:00,4.4982243,4.349920600835763
-174,Banchero P.,Orlando Magic,Portland Trail Blazers,2025-01-31 03:00:00,26.532236,26.771432411620626
-175,Wagner F.,Orlando Magic,Portland Trail Blazers,2025-01-31 03:00:00,27.959782,27.02878313102009
-176,Howard J.,Orlando Magic,Portland Trail Blazers,2025-01-31 03:00:00,5.6200943,5.7558074864416096
-177,Queen T.,Orlando Magic,Portland Trail Blazers,2025-01-31 03:00:00,5.8747373,5.790633180152822
-178,Isaac J.,Orlando Magic,Portland Trail Blazers,2025-01-31 03:00:00,6.6737103,6.5235194047453655
-179,Slawson J.,Orlando Magic,Portland Trail Blazers,2025-01-31 03:00:00,3.0762966,2.947992030162077
-180,Black A.,Orlando Magic,Portland Trail Blazers,2025-01-31 03:00:00,11.140899,11.355570542436979
-181,Carter W.,Orlando Magic,Portland Trail Blazers,2025-01-31 03:00:00,10.617392,10.705447946693212
-182,Bitadze G.,Orlando Magic,Portland Trail Blazers,2025-01-31 03:00:00,9.328649,9.23009856402327
-183,Wagner M.,Orlando Magic,Portland Trail Blazers,2025-01-31 03:00:00,11.642095,11.243396827558566
-184,Culver J.,Orlando Magic,Portland Trail Blazers,2025-01-31 03:00:00,5.386033,5.4610222719959935
-185,da Silva T.,Orlando Magic,Portland Trail Blazers,2025-01-31 03:00:00,10.411017,10.330888413672774
-186,McClung M.,Orlando Magic,Portland Trail Blazers,2025-01-31 03:00:00,3.0660756,3.1280846394944226
-187,Caldwell-Pope K.,Orlando Magic,Portland Trail Blazers,2025-01-31 03:00:00,10.761374,10.76316083098067
-188,Joseph C.,Orlando Magic,Portland Trail Blazers,2025-01-31 03:00:00,3.1562626,3.217695384426794
-189,Thompson E.,Orlando Magic,Portland Trail Blazers,2025-01-31 03:00:00,3.7931788,3.846464976745897
-190,Houstan C.,Orlando Magic,Portland Trail Blazers,2025-01-31 03:00:00,4.587553,4.204560668570658
-191,Harris G.,Orlando Magic,Portland Trail Blazers,2025-01-31 03:00:00,4.6193976,4.628173318120193
-192,Suggs J.,Orlando Magic,Portland Trail Blazers,2025-01-31 03:00:00,16.860006,16.8566810504184
-193,Anthony C.,Orlando Magic,Portland Trail Blazers,2025-01-31 03:00:00,9.616319,9.523832281134128
+,Player,Team,Position,Opp_team,Matchdate,Predicted_PTS_xgb,Predicted_PTS_lgb,Predicted_AST
+0,Merrill S.,Cleveland Cavaliers,Guard,Atlanta Hawks,2025-01-31 00:00:00,6.4511333,6.560893193076787,1.6420327520611129
+1,LeVert C.,Cleveland Cavaliers,Forward,Atlanta Hawks,2025-01-31 00:00:00,10.6935,10.705911352672043,4.025750215581825
+2,Jerome T.,Cleveland Cavaliers,Guard,Atlanta Hawks,2025-01-31 00:00:00,13.785574,13.13741763057106,3.6525284415492134
+3,Nance P.,Cleveland Cavaliers,Forward,Atlanta Hawks,2025-01-31 00:00:00,2.474712,2.4430859675779883,0.6009295478840099
+4,Thor J.,Cleveland Cavaliers,Forward,Atlanta Hawks,2025-01-31 00:00:00,3.5008502,3.7177115759049104,0.4379597736880575
+5,Mobley E.,Cleveland Cavaliers,Center,Atlanta Hawks,2025-01-31 00:00:00,17.176125,16.935483447146474,2.6454577500237657
+6,Garland D.,Cleveland Cavaliers,Guard,Atlanta Hawks,2025-01-31 00:00:00,22.54473,22.411433495082814,7.212631944190616
+7,Porter C.,Cleveland Cavaliers,Guard,Atlanta Hawks,2025-01-31 00:00:00,4.087735,3.9485525912370454,1.1724817994902934
+8,Bates E.,Cleveland Cavaliers,Forward,Atlanta Hawks,2025-01-31 00:00:00,3.5862973,3.2564306194904997,0.5896450348570194
+9,Niang G.,Cleveland Cavaliers,Forward,Atlanta Hawks,2025-01-31 00:00:00,8.852212,8.560234716757757,1.3565938427889015
+10,Allen J.,Cleveland Cavaliers,Center,Atlanta Hawks,2025-01-31 00:00:00,13.396371,13.121541578051596,2.0042506537646707
+11,Wade D.,Cleveland Cavaliers,Forward,Atlanta Hawks,2025-01-31 00:00:00,6.314378,6.274577026847388,1.6356746792682018
+12,Mitchell D.,Cleveland Cavaliers,Guard,Atlanta Hawks,2025-01-31 00:00:00,24.61184,24.84439894482942,5.564437293685309
+13,Strus M.,Cleveland Cavaliers,Guard,Atlanta Hawks,2025-01-31 00:00:00,8.237082,8.505564302323904,3.2893887593124065
+14,Okoro I.,Cleveland Cavaliers,Forward,Atlanta Hawks,2025-01-31 00:00:00,4.971627,4.983588283460185,1.268400846587693
+15,Thompson T.,Cleveland Cavaliers,Forward,Atlanta Hawks,2025-01-31 00:00:00,2.8781643,2.751237904902651,0.6539515804113241
+16,Bernard J.,Cleveland Cavaliers,Guard,Atlanta Hawks,2025-01-31 00:00:00,4.3392653,4.574708713932159,0.46295943662308847
+17,Travers L.,Cleveland Cavaliers,Forward,Atlanta Hawks,2025-01-31 00:00:00,2.6445212,2.5381625138523978,0.757208752155596
+18,Tyson J.,Cleveland Cavaliers,Forward,Atlanta Hawks,2025-01-31 00:00:00,4.4109955,3.72043189656531,1.1789458908424293
+19,Bogdanovic B.,Atlanta Hawks,Guard,Cleveland Cavaliers,2025-01-31 00:00:00,10.757715,10.745610213078153,2.0483294429224363
+20,Krejci V.,Atlanta Hawks,Guard,Cleveland Cavaliers,2025-01-31 00:00:00,9.729405,10.077106344453002,4.350531727867512
+21,Mathews G.,Atlanta Hawks,Guard,Cleveland Cavaliers,2025-01-31 00:00:00,7.0988317,7.502960496171216,1.3503870868913619
+22,Capela C.,Atlanta Hawks,Center,Cleveland Cavaliers,2025-01-31 00:00:00,9.433416,9.233848399129648,1.1461106827169152
+23,Young T.,Atlanta Hawks,Guard,Cleveland Cavaliers,2025-01-31 00:00:00,26.158955,23.74540618054882,9.656659909760537
+24,Harris K.,Atlanta Hawks,Guard,Cleveland Cavaliers,2025-01-31 00:00:00,12.7854,11.602463611854763,1.7939627003943954
+25,Nance L.,Atlanta Hawks,Forward,Cleveland Cavaliers,2025-01-31 00:00:00,8.81971,8.808224018493565,1.7120707809269538
+26,Barlow D.,Atlanta Hawks,Forward,Cleveland Cavaliers,2025-01-31 00:00:00,4.034186,4.160933290919813,0.6876655609270926
+27,Hunter D.,Atlanta Hawks,Forward,Cleveland Cavaliers,2025-01-31 00:00:00,18.992891,18.809313367449846,1.6971744168486023
+28,Johnson J.,Atlanta Hawks,Forward,Cleveland Cavaliers,2025-01-31 00:00:00,18.384867,19.115512799176244,3.887587749882543
+29,Wallace K.,Atlanta Hawks,Guard,Cleveland Cavaliers,2025-01-31 00:00:00,9.894235,9.690110210614169,3.068138895241164
+30,Risacher Z.,Atlanta Hawks,Forward,Cleveland Cavaliers,2025-01-31 00:00:00,11.573425,11.641708570083612,1.282890301172599
+31,Plowden D.,Atlanta Hawks,Guard,Cleveland Cavaliers,2025-01-31 00:00:00,5.969662,6.034818016891658,0.6748606509187899
+32,Roddy D.,Atlanta Hawks,Forward,Cleveland Cavaliers,2025-01-31 00:00:00,5.882982,5.6009293019113695,1.3345773535265733
+33,Bufkin K.,Atlanta Hawks,Guard,Cleveland Cavaliers,2025-01-31 00:00:00,7.8755207,7.883935379538246,2.267761813885887
+34,Daniels D.,Atlanta Hawks,Guard,Cleveland Cavaliers,2025-01-31 00:00:00,15.352125,15.475277596812244,3.971354201704597
+35,Okongwu O.,Atlanta Hawks,Forward,Cleveland Cavaliers,2025-01-31 00:00:00,12.596018,12.255844851150236,2.321784557456194
+36,Gueye M.,Atlanta Hawks,Forward,Cleveland Cavaliers,2025-01-31 00:00:00,6.3827605,6.315789844469541,0.8853379842573094
+37,Sarr A.,Washington Wizards,Center,Los Angeles Lakers,2025-01-31 00:00:00,12.768703,12.779415043641666,2.2881422822670574
+38,George K.,Washington Wizards,Guard,Los Angeles Lakers,2025-01-31 00:00:00,9.28179,9.598048847024389,2.7401579648549674
+39,Brogdon M.,Washington Wizards,Guard,Los Angeles Lakers,2025-01-31 00:00:00,15.5690365,15.933811290906354,4.870807514838664
+40,Carrington C.,Washington Wizards,Guard,Los Angeles Lakers,2025-01-31 00:00:00,10.056715,10.135852070902343,3.2767234121864894
+41,Valanciunas J.,Washington Wizards,Center,Los Angeles Lakers,2025-01-31 00:00:00,11.678259,11.640103631218361,2.3840502169299187
+42,Gill A.,Washington Wizards,Forward,Los Angeles Lakers,2025-01-31 00:00:00,3.7775629,3.7234671405444266,0.5474455652301865
+43,Butler J.,Washington Wizards,Guard,Los Angeles Lakers,2025-01-31 00:00:00,7.3696213,7.57413948006613,2.8360791740508553
+44,Kispert C.,Washington Wizards,Forward,Los Angeles Lakers,2025-01-31 00:00:00,11.247835,11.429791305804178,1.6452019145294345
+45,Holmes R.,Washington Wizards,Center,Los Angeles Lakers,2025-01-31 00:00:00,6.0380774,5.941047501752499,0.8563616767258571
+46,Coulibaly B.,Washington Wizards,Forward,Los Angeles Lakers,2025-01-31 00:00:00,14.3286915,14.02155900042244,3.4222721358490684
+47,Champagnie J.,Washington Wizards,Forward,Los Angeles Lakers,2025-01-31 00:00:00,6.039028,7.0138383344272155,0.819503193417104
+48,Poole J.,Washington Wizards,Guard,Los Angeles Lakers,2025-01-31 00:00:00,18.983156,20.93623934675097,6.311387612094243
+49,Baldwin P.,Washington Wizards,Forward,Los Angeles Lakers,2025-01-31 00:00:00,3.9025576,4.148453560328747,0.5709869259632452
+50,Bagley M.,Washington Wizards,Forward,Los Angeles Lakers,2025-01-31 00:00:00,7.314224,7.2369204898165895,0.831240291299485
+51,Kuzma K.,Washington Wizards,Forward,Los Angeles Lakers,2025-01-31 00:00:00,17.06054,17.587440333678348,3.1311309274946675
+52,Funk T.,Washington Wizards,Forward,Los Angeles Lakers,2025-01-31 00:00:00,5.687748,6.250414133490147,1.1640880157603932
+53,Davis J.,Washington Wizards,Guard,Los Angeles Lakers,2025-01-31 00:00:00,4.300358,4.411969179395493,0.6384935787574069
+54,Vukcevic T.,Washington Wizards,Center,Los Angeles Lakers,2025-01-31 00:00:00,4.490936,4.439949776536987,0.8344952302094922
+55,Hayes J.,Los Angeles Lakers,Center,Washington Wizards,2025-01-31 00:00:00,5.405332,5.431431049126574,0.9243878684070311
+56,Jemison T.,Los Angeles Lakers,Center,Washington Wizards,2025-01-31 00:00:00,3.3635597,3.2347229120482033,0.4793141155957566
+57,Vanderbilt J.,Los Angeles Lakers,Forward,Washington Wizards,2025-01-31 00:00:00,5.2241335,5.584338639652895,1.4370765509969616
+58,Russell D.,Los Angeles Lakers,Guard,Washington Wizards,2025-01-31 00:00:00,12.589176,12.524123061538084,4.7537757384810115
+59,Reddish C.,Los Angeles Lakers,Forward,Washington Wizards,2025-01-31 00:00:00,3.5661333,3.3128479336732455,0.6519410940081989
+60,Castleton C.,Los Angeles Lakers,Center,Washington Wizards,2025-01-31 00:00:00,3.9514909,3.961341975294649,1.7186843052958962
+61,Finney-Smith D.,Los Angeles Lakers,Forward,Washington Wizards,2025-01-31 00:00:00,6.290271,6.092257412834364,0.9708212477204402
+62,Olivari Q.,Los Angeles Lakers,Guard,Washington Wizards,2025-01-31 00:00:00,5.898198,6.665532218491642,0.9517995778979995
+63,Milton S.,Los Angeles Lakers,Guard,Washington Wizards,2025-01-31 00:00:00,3.1481075,3.04133438679702,0.9466493115395033
+64,Wood C.,Los Angeles Lakers,Forward,Washington Wizards,2025-01-31 00:00:00,6.7429957,6.3253575720783495,3.71524148711095
+65,Vincent G.,Los Angeles Lakers,Guard,Washington Wizards,2025-01-31 00:00:00,6.6891804,7.051401551210481,1.7326688192230932
+66,Traore A.,Los Angeles Lakers,Forward,Washington Wizards,2025-01-31 00:00:00,4.0628753,4.145070519665363,0.5223336473657377
+67,Christie M.,Los Angeles Lakers,Guard,Washington Wizards,2025-01-31 00:00:00,8.948859,8.956214044680904,1.5385805652782618
+68,Knecht D.,Los Angeles Lakers,Forward,Washington Wizards,2025-01-31 00:00:00,9.169873,9.45034773690722,0.9780002694451996
+69,Hachimura R.,Los Angeles Lakers,Forward,Washington Wizards,2025-01-31 00:00:00,12.76949,12.283781086985348,1.5035472539550374
+70,Koloko C. J.,Los Angeles Lakers,Center,Washington Wizards,2025-01-31 00:00:00,3.5295768,3.1495868891154353,1.0794437274931297
+71,James L.,Los Angeles Lakers,Forward,Washington Wizards,2025-01-31 00:00:00,26.219587,25.005348491014818,8.892131134497797
+72,Hood-Schifino J.,Los Angeles Lakers,Guard,Washington Wizards,2025-01-31 00:00:00,5.415175,5.516115285708186,2.3365193717772765
+73,James Jr. B.,Los Angeles Lakers,Guard,Washington Wizards,2025-01-31 00:00:00,2.9263875,3.3376989451533525,0.5188524274101852
+74,Lewis M.,Los Angeles Lakers,Forward,Washington Wizards,2025-01-31 00:00:00,2.4590242,2.6648122359644772,0.5484831203493031
+75,Reaves A.,Los Angeles Lakers,Guard,Washington Wizards,2025-01-31 00:00:00,18.736752,18.295835795625557,6.70374513637868
+76,Davis A.,Los Angeles Lakers,Forward,Washington Wizards,2025-01-31 00:00:00,27.375618,27.00109719063885,3.7952227727776195
+77,Mills P.,Utah Jazz,Guard,Minnesota Timberwolves,2025-01-31 02:00:00,4.408761,4.483308366068986,1.0556414277923607
+78,Filipowski K.,Utah Jazz,Center,Minnesota Timberwolves,2025-01-31 02:00:00,7.2041254,7.334509152211053,1.908560397084481
+79,Sexton C.,Utah Jazz,Guard,Minnesota Timberwolves,2025-01-31 02:00:00,19.153439,19.356353176577294,4.847860982308004
+80,Sensabaugh B.,Utah Jazz,Forward,Minnesota Timberwolves,2025-01-31 02:00:00,10.163438,10.289947855240856,1.355353356860061
+81,Juzang J.,Utah Jazz,Guard,Minnesota Timberwolves,2025-01-31 02:00:00,7.380078,7.40557647722607,1.421306698793555
+82,Hendricks T.,Utah Jazz,Forward,Minnesota Timberwolves,2025-01-31 02:00:00,6.719599,6.805971657074979,0.9875796922172562
+83,Clarkson J.,Utah Jazz,Guard,Minnesota Timberwolves,2025-01-31 02:00:00,15.782375,15.66009622703996,4.069257144916387
+84,Harkless E.,Utah Jazz,Guard,Minnesota Timberwolves,2025-01-31 02:00:00,4.1868134,4.226245101331431,0.9474980603762045
+85,Collins J.,Utah Jazz,Forward,Minnesota Timberwolves,2025-01-31 02:00:00,18.320415,18.19989019219787,2.5531602759861665
+86,Markkanen L.,Utah Jazz,Center,Minnesota Timberwolves,2025-01-31 02:00:00,19.004374,18.633843951865927,1.7470458563435418
+87,Preston J.,Utah Jazz,Guard,Minnesota Timberwolves,2025-01-31 02:00:00,3.648934,2.9866580079141465,2.261748488786058
+88,Eubanks D.,Utah Jazz,Forward,Minnesota Timberwolves,2025-01-31 02:00:00,6.8302317,7.144758557842432,1.317508953932388
+89,Kessler W.,Utah Jazz,Center,Minnesota Timberwolves,2025-01-31 02:00:00,10.753106,11.0343897602065,1.4897727539090315
+90,Williams C.,Utah Jazz,Forward,Minnesota Timberwolves,2025-01-31 02:00:00,6.9209313,7.023878899283548,1.6308838184460437
+91,George K.,Utah Jazz,Guard,Minnesota Timberwolves,2025-01-31 02:00:00,16.769716,16.573107382962696,6.563768869777892
+92,Potter M.,Utah Jazz,Center,Minnesota Timberwolves,2025-01-31 02:00:00,5.323545,5.159588919225637,1.1548177416929015
+93,Collier I.,Utah Jazz,Guard,Minnesota Timberwolves,2025-01-31 02:00:00,11.149284,11.963235143363177,6.685748078345675
+94,Mykhailiuk S.,Utah Jazz,Forward,Minnesota Timberwolves,2025-01-31 02:00:00,11.495421,11.150894840752708,1.7697739240983414
+95,Tshiebwe O.,Utah Jazz,Forward,Minnesota Timberwolves,2025-01-31 02:00:00,3.859704,3.9897229643051393,0.5281448002537399
+96,Garza L.,Minnesota Timberwolves,Center,Utah Jazz,2025-01-31 02:00:00,4.5345216,4.144444529605816,0.4653300255858747
+97,McDaniels J.,Minnesota Timberwolves,Forward,Utah Jazz,2025-01-31 02:00:00,12.402831,12.681922735686474,1.8141603273162137
+98,Miller L.,Minnesota Timberwolves,Forward,Utah Jazz,2025-01-31 02:00:00,3.5592422,3.4690943292521537,0.5458438042119853
+99,DiVincenzo D.,Minnesota Timberwolves,Guard,Utah Jazz,2025-01-31 02:00:00,15.5150585,14.713909375951665,4.61170120111979
+100,Edwards A.,Minnesota Timberwolves,Guard,Utah Jazz,2025-01-31 02:00:00,29.579166,27.824271025848084,5.108205418499408
+101,Bates-Diop K.,Minnesota Timberwolves,Forward,Utah Jazz,2025-01-31 02:00:00,5.1535616,5.112153901468965,0.522670877086718
+102,Dozier P.J.,Minnesota Timberwolves,Guard,Utah Jazz,2025-01-31 02:00:00,2.954214,2.906899256541703,0.5980578032608348
+103,Dillingham R.,Minnesota Timberwolves,Guard,Utah Jazz,2025-01-31 02:00:00,6.9050307,6.8739566706983055,2.215494392616427
+104,Clark J.,Minnesota Timberwolves,Guard,Utah Jazz,2025-01-31 02:00:00,2.8854809,3.224714878021671,0.5090791302880132
+105,Shannon Jr. T.,Minnesota Timberwolves,Forward,Utah Jazz,2025-01-31 02:00:00,3.728559,3.4158703701162443,0.9314257000835312
+106,Conley M.,Minnesota Timberwolves,Guard,Utah Jazz,2025-01-31 02:00:00,8.699772,8.816674013756835,5.066159754911164
+107,Alexander-Walker N.,Minnesota Timberwolves,Guard,Utah Jazz,2025-01-31 02:00:00,9.338845,9.505686732195866,2.397814888672033
+108,Minott J.,Minnesota Timberwolves,Forward,Utah Jazz,2025-01-31 02:00:00,3.9500458,3.960496295903193,0.5555808429068788
+109,Gobert R.,Minnesota Timberwolves,Center,Utah Jazz,2025-01-31 02:00:00,10.263759,10.117866573587936,1.6089610810150405
+110,Ingles J.,Minnesota Timberwolves,Forward,Utah Jazz,2025-01-31 02:00:00,2.7890239,2.749401748995514,1.2081252592571887
+111,Nix D.,Minnesota Timberwolves,Guard,Utah Jazz,2025-01-31 02:00:00,4.9055367,5.063543906391937,1.078271051147934
+112,Randle J.,Minnesota Timberwolves,Forward,Utah Jazz,2025-01-31 02:00:00,21.3463,21.17109373585582,5.009769684333023
+113,Edwards J.,Minnesota Timberwolves,Center,Utah Jazz,2025-01-31 02:00:00,7.263911,7.877991782491366,0.5282917995009744
+114,Reid N.,Minnesota Timberwolves,Center,Utah Jazz,2025-01-31 02:00:00,13.912495,14.188261126364067,1.875399137352329
+115,Spencer C.,Memphis Grizzlies,Guard,Houston Rockets,2025-01-31 02:30:00,4.1822944,4.256486536334321,1.4370575751538694
+116,Cardoso Pereira J. M.,Memphis Grizzlies,Forward,Houston Rockets,2025-01-31 02:30:00,2.5206625,2.5235820505091984,0.46041783497622607
+117,Kawamura Y.,Memphis Grizzlies,Guard,Houston Rockets,2025-01-31 02:30:00,2.5216126,2.794235016723068,1.3827872523905282
+118,Jackson G.,Memphis Grizzlies,Forward,Houston Rockets,2025-01-31 02:30:00,7.6338067,7.936667078173604,0.857672922028508
+119,Aldama S.,Memphis Grizzlies,Center,Houston Rockets,2025-01-31 02:30:00,12.296645,12.248996135103509,2.0203090938655857
+120,Castleton C.,Memphis Grizzlies,Center,Houston Rockets,2025-01-31 02:30:00,2.9325242,3.074534847016969,0.43641934018345896
+121,Edey Z.,Memphis Grizzlies,Center,Houston Rockets,2025-01-31 02:30:00,9.462587,9.458188422419438,0.9691535899757489
+122,Smart M.,Memphis Grizzlies,Guard,Houston Rockets,2025-01-31 02:30:00,9.055622,8.819004264919984,3.093784740623058
+123,Morant J.,Memphis Grizzlies,Guard,Houston Rockets,2025-01-31 02:30:00,20.571503,20.116932441279044,8.165918086869567
+124,Bacot A.,Memphis Grizzlies,Forward,Houston Rockets,2025-01-31 02:30:00,3.5279007,3.9256858352712856,0.460436719844915
+125,Oni M.,Memphis Grizzlies,Guard,Houston Rockets,2025-01-31 02:30:00,3.6797166,3.7341820263227414,0.6647734599974463
+126,Bane D.,Memphis Grizzlies,Guard,Houston Rockets,2025-01-31 02:30:00,18.210741,18.110098323632865,5.704259943064359
+127,Jackson J.,Memphis Grizzlies,Forward,Houston Rockets,2025-01-31 02:30:00,23.762964,23.388961689340615,2.0856958633096783
+128,Kennard L.,Memphis Grizzlies,Guard,Houston Rockets,2025-01-31 02:30:00,9.853348,9.733796089062002,3.1576227735936646
+129,LaRavia J.,Memphis Grizzlies,Forward,Houston Rockets,2025-01-31 02:30:00,6.7760706,7.047803833467822,2.0948798533412387
+130,Pippen Jr S.,Memphis Grizzlies,Guard,Houston Rockets,2025-01-31 02:30:00,9.407875,8.703486067505244,3.303203965298533
+131,Konchar J.,Memphis Grizzlies,Guard,Houston Rockets,2025-01-31 02:30:00,3.4405856,3.4078462682084907,0.9711796899742835
+132,Clarke B.,Memphis Grizzlies,Forward,Houston Rockets,2025-01-31 02:30:00,7.501386,7.400817165313232,0.9648986107582711
+133,Wells J.,Memphis Grizzlies,Forward,Houston Rockets,2025-01-31 02:30:00,11.256032,10.929150052389469,1.541522023454007
+134,Huff J.,Memphis Grizzlies,Center,Houston Rockets,2025-01-31 02:30:00,4.9390507,4.540813388206521,0.44712400487617915
+135,Williams V.,Memphis Grizzlies,Guard,Houston Rockets,2025-01-31 02:30:00,7.7809997,8.358774868983986,3.3294953857583978
+136,Dante N.,Houston Rockets,Center,Memphis Grizzlies,2025-01-31 02:30:00,2.9650736,3.0046729549167774,0.5035321685316786
+137,Hinton N.,Houston Rockets,Guard,Memphis Grizzlies,2025-01-31 02:30:00,3.3045957,3.3868001374512846,1.7959774442587333
+138,Sengun A.,Houston Rockets,Center,Memphis Grizzlies,2025-01-31 02:30:00,18.769112,19.873230252758006,5.299692641247627
+139,Whitmore C.,Houston Rockets,Forward,Memphis Grizzlies,2025-01-31 02:30:00,10.502199,10.308450138308867,1.176370325703233
+140,Adams S.,Houston Rockets,Center,Memphis Grizzlies,2025-01-31 02:30:00,5.625423,5.913347858804825,1.2705394241118102
+141,Green J.,Houston Rockets,Guard,Memphis Grizzlies,2025-01-31 02:30:00,22.076895,21.599110631126017,3.5065263952530543
+142,Green Je.,Houston Rockets,Forward,Memphis Grizzlies,2025-01-31 02:30:00,6.010478,6.2675622573674685,0.6566110629790142
+143,Williams N.,Houston Rockets,Guard,Memphis Grizzlies,2025-01-31 02:30:00,3.2303383,3.3624488238669574,0.5152414217672021
+144,McVeigh J.,Houston Rockets,Forward,Memphis Grizzlies,2025-01-31 02:30:00,3.5333536,3.4366811002518842,0.5387739171455741
+145,Thompson A.,Houston Rockets,Forward,Memphis Grizzlies,2025-01-31 02:30:00,16.657068,17.16809332461674,4.299940100764164
+146,Samuels J.,Houston Rockets,Forward,Memphis Grizzlies,2025-01-31 02:30:00,5.277167,5.097089220539112,0.6280102622964502
+147,Holiday A.,Houston Rockets,Guard,Memphis Grizzlies,2025-01-31 02:30:00,5.4625707,5.381031775000998,1.2211432950603487
+148,Brooks D.,Houston Rockets,Forward,Memphis Grizzlies,2025-01-31 02:30:00,13.939512,14.163415263505268,1.5850021786940671
+149,VanVleet F.,Houston Rockets,Guard,Memphis Grizzlies,2025-01-31 02:30:00,15.633834,15.496314087345358,6.255090257875838
+150,Landale J.,Houston Rockets,Center,Memphis Grizzlies,2025-01-31 02:30:00,3.8374429,4.110616181427001,0.7426076229439851
+151,Tate J.,Houston Rockets,Forward,Memphis Grizzlies,2025-01-31 02:30:00,5.540405,5.35370388199324,0.8250130065267517
+152,Smith Jr. J.,Houston Rockets,Forward,Memphis Grizzlies,2025-01-31 02:30:00,12.037849,12.149447991768348,1.2626179241861801
+153,Sheppard R.,Houston Rockets,Guard,Memphis Grizzlies,2025-01-31 02:30:00,3.6959505,3.7056371711545752,1.206945606782463
+154,Williams J.,Houston Rockets,Forward,Memphis Grizzlies,2025-01-31 02:30:00,5.5488043,5.512617331210476,0.6794444607971617
+155,Eason T.,Houston Rockets,Forward,Memphis Grizzlies,2025-01-31 02:30:00,11.4021,11.352219451970035,1.3634037106414283
+156,McGowens B.,Portland Trail Blazers,Guard,Orlando Magic,2025-01-31 03:00:00,2.8879652,2.7032085516440665,0.5360543486145251
+157,Simons A.,Portland Trail Blazers,Guard,Orlando Magic,2025-01-31 03:00:00,18.650003,18.3424939376481,4.438059907905652
+158,Graham D.,Portland Trail Blazers,Guard,Orlando Magic,2025-01-31 03:00:00,3.596572,3.659823293613721,2.093607737451592
+159,Avdija D.,Portland Trail Blazers,Forward,Orlando Magic,2025-01-31 03:00:00,16.510391,16.714899648361893,3.967068260399088
+160,Rupert R.,Portland Trail Blazers,Guard,Orlando Magic,2025-01-31 03:00:00,3.2504644,2.666750400646251,0.6288890076225374
+161,Williams R.,Portland Trail Blazers,Forward,Orlando Magic,2025-01-31 03:00:00,5.4348664,5.31532719392428,1.0363959258419224
+162,Camara T.,Portland Trail Blazers,Forward,Orlando Magic,2025-01-31 03:00:00,10.662016,10.540660303256104,2.1301581279543615
+163,Murray K.,Portland Trail Blazers,Forward,Orlando Magic,2025-01-31 03:00:00,4.1127286,4.207075886588118,0.7205075237273038
+164,Banton D.,Portland Trail Blazers,Forward,Orlando Magic,2025-01-31 03:00:00,7.7963634,7.933912661355417,1.77457340270109
+165,Reath D.,Portland Trail Blazers,Forward,Orlando Magic,2025-01-31 03:00:00,3.0601318,3.1973162156577977,0.48023378868097855
+166,Clingan D.,Portland Trail Blazers,Center,Orlando Magic,2025-01-31 03:00:00,6.013503,5.65491266109226,1.1228417687590917
+167,Minaya J.,Portland Trail Blazers,Forward,Orlando Magic,2025-01-31 03:00:00,2.6335711,2.4708104007476726,0.49945831451205036
+168,Grant J.,Portland Trail Blazers,Forward,Orlando Magic,2025-01-31 03:00:00,13.29885,13.426082192986328,1.920909484571931
+169,Sharpe S.,Portland Trail Blazers,Forward,Orlando Magic,2025-01-31 03:00:00,16.664455,15.714264321043771,2.1529383038051666
+170,Ayton D.,Portland Trail Blazers,Center,Orlando Magic,2025-01-31 03:00:00,14.348786,14.566272794824101,1.436271699454474
+171,Henderson S.,Portland Trail Blazers,Guard,Orlando Magic,2025-01-31 03:00:00,11.859632,11.858697892427571,4.861862493210007
+172,Walker J.,Portland Trail Blazers,Forward,Orlando Magic,2025-01-31 03:00:00,3.9363294,3.8737056813041066,0.5870520194947575
+173,Moore T.,Portland Trail Blazers,Guard,Orlando Magic,2025-01-31 03:00:00,4.373298,5.047457721212138,0.8674209878103871
+174,Banchero P.,Orlando Magic,Forward,Portland Trail Blazers,2025-01-31 03:00:00,28.420132,25.84650875653212,5.53488154639121
+175,Wagner F.,Orlando Magic,Forward,Portland Trail Blazers,2025-01-31 03:00:00,26.941284,26.422748958057653,5.0447333443053655
+176,Howard J.,Orlando Magic,Guard,Portland Trail Blazers,2025-01-31 03:00:00,5.7948713,5.636701434974996,0.8958474241236385
+177,Queen T.,Orlando Magic,Guard,Portland Trail Blazers,2025-01-31 03:00:00,5.523928,5.322277475113114,1.4368226195576264
+178,Isaac J.,Orlando Magic,Forward,Portland Trail Blazers,2025-01-31 03:00:00,6.2846994,6.252893718935445,0.6535131301640362
+179,Slawson J.,Orlando Magic,Forward,Portland Trail Blazers,2025-01-31 03:00:00,2.9676774,2.879361635212418,0.624934809598118
+180,Black A.,Orlando Magic,Guard,Portland Trail Blazers,2025-01-31 03:00:00,11.372588,11.733770207508785,3.9181081399427664
+181,Carter W.,Orlando Magic,Center,Portland Trail Blazers,2025-01-31 03:00:00,10.425779,10.565768852343256,2.8334989317901718
+182,Bitadze G.,Orlando Magic,Center,Portland Trail Blazers,2025-01-31 03:00:00,9.6497755,9.062602455536867,2.167673848771811
+183,Wagner M.,Orlando Magic,Forward,Portland Trail Blazers,2025-01-31 03:00:00,11.718001,11.58444894069085,1.509569799324843
+184,Culver J.,Orlando Magic,Guard,Portland Trail Blazers,2025-01-31 03:00:00,5.3006167,5.165280888570792,0.47858230502140714
+185,da Silva T.,Orlando Magic,Forward,Portland Trail Blazers,2025-01-31 03:00:00,10.649141,10.388635951203241,2.1604656508523914
+186,McClung M.,Orlando Magic,Guard,Portland Trail Blazers,2025-01-31 03:00:00,2.9901154,2.884191498726064,1.2270575265248158
+187,Caldwell-Pope K.,Orlando Magic,Guard,Portland Trail Blazers,2025-01-31 03:00:00,10.4227495,10.377071568824423,2.1662546007487955
+188,Joseph C.,Orlando Magic,Guard,Portland Trail Blazers,2025-01-31 03:00:00,3.264654,3.5723886382223746,0.8938524593230787
+189,Thompson E.,Orlando Magic,Guard,Portland Trail Blazers,2025-01-31 03:00:00,3.522493,3.5303222711338993,1.4269206254343199
+190,Houstan C.,Orlando Magic,Guard,Portland Trail Blazers,2025-01-31 03:00:00,4.3197274,4.628002943126911,0.9103888237332695
+191,Harris G.,Orlando Magic,Guard,Portland Trail Blazers,2025-01-31 03:00:00,4.4482107,4.466799185253579,0.621372486732878
+192,Suggs J.,Orlando Magic,Guard,Portland Trail Blazers,2025-01-31 03:00:00,16.196865,15.895966504909639,3.7356077131488004
+193,Anthony C.,Orlando Magic,Guard,Portland Trail Blazers,2025-01-31 03:00:00,10.201047,10.284033294172966,3.852603964606207
+194,Ba I.,Le Portel,Center,Le Mans,2025-01-31 19:00:00,2.8914654,2.6674771013485246,0.4873086555249056
+195,Nunge J.,Le Portel,Center,Le Mans,2025-01-31 19:00:00,11.161821,11.408400972626696,2.2641349026426307
+196,Zoriks K.,Le Portel,Guard,Le Mans,2025-01-31 19:00:00,11.849121,12.045423180600151,4.806088676862758
+197,Gholston D.,Le Portel,Guard,Le Mans,2025-01-31 19:00:00,14.565637,14.41361470095594,2.717871589291473
+198,Fevrier I.,Le Portel,Forward,Le Mans,2025-01-31 19:00:00,12.951773,12.917795581290902,2.671301603581116
+199,Boyer M.,Le Portel,Center,Le Mans,2025-01-31 19:00:00,5.9250746,5.764664794252231,0.5085652696634434
+200,Konate L.,Le Portel,Guard,Le Mans,2025-01-31 19:00:00,4.9523354,5.441790051414194,1.06072828191633
+201,Le Meut I.,Le Portel,Center,Le Mans,2025-01-31 19:00:00,2.690263,2.5405707571320706,0.4821816053039945
+202,Diawara D.,Le Portel,Forward,Le Mans,2025-01-31 19:00:00,12.034023,12.01466380467541,1.2332752289248132
+203,Meyniel G.,Le Portel,Guard,Le Mans,2025-01-31 19:00:00,2.8304462,2.613994425450715,1.7132418180957703
+204,Pinckney D.,Le Portel,Forward,Le Mans,2025-01-31 19:00:00,8.168152,8.184572772660417,1.1019298062593874
+205,Kelly C.,Le Portel,Guard,Le Mans,2025-01-31 19:00:00,3.8665843,3.7730483554373135,1.3445455818783187
+206,Esso Essis J.,Le Portel,Guard,Le Mans,2025-01-31 19:00:00,2.942583,2.9571455387753987,0.5645172129582062
+207,Ebunangombe C.,Le Portel,Forward,Le Mans,2025-01-31 19:00:00,3.0576653,2.6745982745275785,0.5573470342289086
+208,Burns D.,Le Portel,Guard,Le Mans,2025-01-31 19:00:00,4.795186,4.762653751313224,1.3752398516170752
+209,Delaunay L.,Le Mans,Guard,Le Portel,2025-01-31 19:00:00,8.004649,8.29115282734792,2.8240891924155163
+210,Thomas T.,Le Mans,Forward,Le Portel,2025-01-31 19:00:00,9.3360405,9.1349966072529,1.5171224112727137
+211,N'Doye A.,Le Mans,Forward,Le Portel,2025-01-31 19:00:00,6.2347226,6.061921627819606,3.627399188450231
+212,Grasshoff L.,Le Mans,Forward,Le Portel,2025-01-31 19:00:00,2.6227486,2.6092276539186483,0.43129407453808827
+213,Ngouama M.,Le Mans,Guard,Le Portel,2025-01-31 19:00:00,11.374918,11.461203630504881,1.798918758200011
+214,Buchanan T.,Le Mans,Guard,Le Portel,2025-01-31 19:00:00,8.826669,8.824169454447937,1.4501141020819632
+215,Nguyen H.,Le Mans,Guard,Le Portel,2025-01-31 19:00:00,2.4226744,2.286607984525451,0.43511221535106226
+216,Narace W.,Le Mans,Forward,Le Portel,2025-01-31 19:00:00,6.8380804,6.788012122421712,0.8748950510549542
+217,Hudgins T.,Le Mans,Guard,Le Portel,2025-01-31 19:00:00,14.337718,14.816388204094373,2.604581064261683
+218,Yeguete W.,Le Mans,Forward,Le Portel,2025-01-31 19:00:00,8.004353,8.076839141418272,1.6898543509462574
+219,DiLeo D.,Le Mans,Forward,Le Portel,2025-01-31 19:00:00,9.52282,9.738432053675849,1.2377156300578716
+220,Mienandi H.,Le Mans,Forward,Le Portel,2025-01-31 19:00:00,2.3867462,2.4863919473789324,0.41413705385846816
+221,Penda N.,Le Mans,Forward,Le Portel,2025-01-31 19:00:00,10.0735855,10.03161395351354,2.7213170284879284
