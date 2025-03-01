@@ -26,15 +26,3 @@ if check_password():
 
     st.write("Here are the predictions:")
     st.dataframe(df_test, use_container_width=True)
-
-# @st.cache_data
-# def convert_df_to_csv(df):
-#     return df.to_csv(index=False).encode('utf-8')
-
-# csv = convert_df_to_csv(df_predictions_xgb)
-# st.download_button(
-#     label="Download Data as CSV",
-#     data=csv,
-#     file_name='basketball_predictions.csv',
-#     mime='text/csv'
-# )
